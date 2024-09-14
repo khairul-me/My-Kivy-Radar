@@ -2,6 +2,8 @@
 
 This project is a radar application built using **Kivy** and **Python** that reads sensor data from a serial port (such as an ultrasonic sensor connected to an Arduino) and visualizes it on a radar interface. The radar shows a sweeping green line that detects objects and marks them as red dots based on the angle and distance.
 
+![Radar Display](./khairul.kivy.png)
+
 ## Features
 - Real-time radar display showing detected objects.
 - Sweeping radar line with detected objects highlighted as red dots.
